@@ -7,6 +7,7 @@
 
 iWORDS 是一款针对儿童的语境化英语学习APP，旨在通过有趣的动画和互动游戏，让孩子们在快乐中学习英语。iWORDS 利用先进的语言学习方法，帮助孩子们提高词汇量和英语表达能力。
 
+![image](https://github.com/user-attachments/assets/77c4515c-40de-4e50-945a-df741e8a8fda)
 
 ## Features
 
